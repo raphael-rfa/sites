@@ -25,7 +25,7 @@
   </br>
   </br>
 
-## <a href="https://raphael-rfa.github.io/Landingpagedentista/">Site institucional Dentista</a>
+## <a href="https://raphael-rfa.github.io/Landingpagedentista/">Landin page de Dentista</a>
 <a href="https://raphael-rfa.github.io/Landingpagedentista/"><img src="https://raphael-rfa.github.io/landingpageagencia/imagens/site1.webp" width="300" height="auto" align="right" /></a>
 ### Landin page de dentista estilo curriculo
   Contendo 5 seções a hero com slider animado,  
